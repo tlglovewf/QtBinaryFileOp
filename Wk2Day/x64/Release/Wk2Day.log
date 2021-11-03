@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\sources\pgrexport\wk2day\main.cpp(13): warning C4477: “scanf”: 格式字符串“%f”需要类型“float *”的参数，但可变参数 1 拥有了类型“double *”
+  c:\sources\pgrexport\wk2day\main.cpp(13): note: 请考虑在格式字符串中使用“%lf”
+c:\sources\pgrexport\wk2day\main.cpp(29): warning C4477: “scanf”: 格式字符串“%f”需要类型“float *”的参数，但可变参数 1 拥有了类型“double *”
+  c:\sources\pgrexport\wk2day\main.cpp(29): note: 请考虑在格式字符串中使用“%lf”
+  Wk2Day.vcxproj -> C:\Sources\PgrExport\x64\Release\Wk2Day.exe

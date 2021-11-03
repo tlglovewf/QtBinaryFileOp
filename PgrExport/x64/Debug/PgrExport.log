@@ -1,0 +1,9 @@
+﻿  Reading Qt configuration (C:/Qt/Qt5.13.2/5.13.2/msvc2017_64/bin/qmake)
+  rcc PgrExport.qrc
+   RCC: Warning: No resources in 'E:\Sources\PgrExport\PgrExport\PgrExport.qrc'.
+  PgrFileHandler.cpp
+  PgrExport.cpp
+  main.cpp
+  moc_PgrExport.cpp
+  qrc_PgrExport.cpp
+  PgrExport.vcxproj -> E:\Sources\PgrExport\x64\Debug\PgrExport.exe
