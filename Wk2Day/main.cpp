@@ -2,6 +2,7 @@
 #include <qdebug.h>
 #include <QString>
 #include <map>
+
 int main(int argc, char *argv[])
 {
     QCoreApplication a(argc, argv);
@@ -36,8 +37,5 @@ int main(int argc, char *argv[])
 
 	}
 
-
-
-	exit(-1);
     return a.exec();
 }

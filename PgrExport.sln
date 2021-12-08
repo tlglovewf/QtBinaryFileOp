@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Wk2Day", "Wk2Day\Wk2Day.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QtRawCombin", "QtRawCombin\QtRawCombin.vcxproj", "{5BCE2384-69DB-45C3-BA7B-12B214322103}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NetControl", "NetControl\NetControl.vcxproj", "{4739E4D4-0997-4988-89AE-96953CF5F54E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -27,6 +29,10 @@ Global
 		{5BCE2384-69DB-45C3-BA7B-12B214322103}.Debug|x64.Build.0 = Debug|x64
 		{5BCE2384-69DB-45C3-BA7B-12B214322103}.Release|x64.ActiveCfg = Release|x64
 		{5BCE2384-69DB-45C3-BA7B-12B214322103}.Release|x64.Build.0 = Release|x64
+		{4739E4D4-0997-4988-89AE-96953CF5F54E}.Debug|x64.ActiveCfg = Debug|x64
+		{4739E4D4-0997-4988-89AE-96953CF5F54E}.Debug|x64.Build.0 = Debug|x64
+		{4739E4D4-0997-4988-89AE-96953CF5F54E}.Release|x64.ActiveCfg = Release|x64
+		{4739E4D4-0997-4988-89AE-96953CF5F54E}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
